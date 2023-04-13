@@ -3,7 +3,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-
 app).
 
-This project was developed trying to use some of the best SEO practices
+This project was developed trying to use some of the best SEO practices :)
 
 ## Getting Started
 
