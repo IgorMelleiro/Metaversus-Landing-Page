@@ -1,5 +1,10 @@
 import '../styles/globals.css';
 
+export const metadata = {
+  title: 'Meta Versus',
+  description: 'Discover a new universe!'
+}
+
 const RootLayout = ({ children }) => (
   <html lang="en">
     <head>
